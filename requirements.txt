@@ -1,0 +1,3 @@
+Write a Python code which 
+- Pulls the data from coingecko.com
+- filters out top N cryptocurrencies by market capitalization 
